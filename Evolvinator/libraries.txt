@@ -1,0 +1,10 @@
+Using library SPI at version 1.0
+Using library Ethernet at version 2.0.2
+Using library Time at version 1.6.1
+Using library SD at version 1.2.4
+Using library PID at version 1.2.0
+Using library Wire at version 1.0
+Using library hd44780 at version 1.3.2
+Using library Adafruit IO Arduino at version 4.2.9
+Using library Adafruit MQTT Library at version 2.5.8
+Using library ArduinoHttpClient at version 0.5.0
